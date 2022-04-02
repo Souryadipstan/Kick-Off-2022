@@ -2,6 +2,15 @@
 
 [![Python 3.9](https://img.shields.io/badge/python-3.9-blue.svg)](https://www.python.org/downloads/release/python-390/)
 
+## Libraries Used
+
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- scikit-learn
+- xgboost
+
 ## About
 
 Every football team whether at a club level or international level needs to work efficiently to improve their game and entertain their supporters. As an aspiring Data Scientist, it's now your responsibility to bring in quality data, understand and analyze and try to apply the same to the FIFA dataset.
